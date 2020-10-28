@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.pugadev-puga-battleship-test-3228d920d2d0.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\João Vitor B\Desktop\pugadev-puga-battleship-test-3228d920d2d0\.idea\.idea.pugadev-puga-battleship-test-3228d920d2d0\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
